@@ -25,3 +25,4 @@ Vibration Motor Error=Lỗi rung Taptic Engine.
 Unexpected Shutdown=Tắt máy không rõ nguyên nhân, cần kiểm tra nhiệt độ hoặc nguồn.
 Jetsam Memory Pressure=Hệ thống đóng ứng dụng để giải phóng RAM.
 Watchdog Timeout=Thiết bị treo hoặc không phản hồi, bị watchdog reset.
+AOP NMI Panic=Lỗi liên quan đến AOP (Always-On Processor) xử lý ngắt NMI/IRQ. Có thể do xung đột phần cứng hoặc lỗi firmware.\n Đây là lỗi hardware-level liên quan đến AOP, một bộ xử lý phụ trợ trong iPhone chuyên xử lý các tác vụ luôn bật như đo cảm biến, quản lý pin, v.v.\n Nguyên nhân thường gặp:\nLỗi phần cứng: có thể do AOP chip bị lỗi, lỗi RAM, hoặc mainboard có vấn đề.\nPin hoặc điện áp không ổn định: có thể pin yếu, pin thay thế chất \nlượng kém, hoặc IC nguồn lỗi.\nLỗi firmware của AOP hoặc xung đột với phần mềm khác (ít gặp hơn).
