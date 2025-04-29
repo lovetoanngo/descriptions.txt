@@ -1,28 +1,27 @@
-"Thermal Monitor Shutdown": r"thermalmonitord|thermal pressure|thermal runaway|heat warning|shutdown|prochot asserted",
-    "Battery GasGauge Error": r"GasGauge|battery capacity|battery current error",
-    "Sensor Hub Crash": r"sensor hub crash|sensor controller crash|MotionCoproc|sensor panic",
-    "SMC Sensor Failure": r"SMC PANIC|sensor array|OUTBOX1 not ready|SMC BSC failure",
-    "Baseband Crash": r"Baseband crash|modem crash|modem reset|firmware panic",
-    "SEP Panic": r"SEP panic|sep crash|sep firmware panic|sepos error",
-    "BridgeOS Panic": r"BridgeOS|AppleBridgeDevice|BridgeOS error",
-    "Unexpected Reset": r"ResetCause|Unexpected reset",
-    "Low Memory": r"memory pressure|low memory",
-    "Killed Process": r"killed process",
-    "Filesystem Corruption": r"filesystem corruption|fs corruption",
-    "PCIe Error": r"PCIe error|IOPPFirmware panic",
-    "WiFi Chip Crash": r"awdl0 crash|WifiCore|IO80211",
-    "Bluetooth Crash": r"Bluetooth crash|BTChip",
-    "Camera Failure": r"camera error|IR projector error|TrueDepth sensor fail",
-    "NAND Controller Failure": r"nand controller fail|NAND panic",
-    "IO Report Panic": r"ioreport panic|IOService",
-    "Power Manager Watchdog": r"pmgr watchdog|Power Manager",
-    "Audio Codec Error": r"audio codec reset|HALB error|I2S error",
-    "Display Processor Error": r"DCP assertion failed|DisplayCoProcessor error",
-    "USB Error": r"usb device error|IOUSBHost crash",
-    "SIM Error": r"sim crash|sim lock|sim toolkit",
-    "GPS Module Error": r"locationd crash|GPS module error",
-    "Vibration Motor Error": r"taptic engine fail|haptic feedback error",
-    "Unexpected Shutdown": r"shutdown cause|panic shutdown",
-    "Jetsam Memory Pressure": r"jetsam event",
-    "Watchdog Timeout": r"watchdog timeout|no successful checkins"
-    
+Thermal Monitor Shutdown=thermalmonitord|thermal pressure|thermal runaway|heat warning|shutdown|prochot asserted
+Battery GasGauge Error=GasGauge|battery capacity|battery current error
+Sensor Hub Crash=sensor hub crash|sensor controller crash|MotionCoproc|sensor panic
+SMC Sensor Failure=SMC PANIC|sensor array|OUTBOX1 not ready|SMC BSC failure
+Baseband Crash=Baseband crash|modem crash|modem reset|firmware panic
+SEP Panic=SEP panic|sep crash|sep firmware panic|sepos error
+BridgeOS Panic=BridgeOS|AppleBridgeDevice|BridgeOS error
+Unexpected Reset=ResetCause|Unexpected reset
+Low Memory=memory pressure|low memory
+Killed Process=killed process
+Filesystem Corruption=filesystem corruption|fs corruption
+PCIe Error=PCIe error|IOPPFirmware panic
+WiFi Chip Crash=awdl0 crash|WifiCore|IO80211
+Bluetooth Crash=Bluetooth crash|BTChip
+Camera Failure=camera error|IR projector error|TrueDepth sensor fail
+NAND Controller Failure=nand controller fail|NAND panic
+IO Report Panic=ioreport panic|IOService
+Power Manager Watchdog=pmgr watchdog|Power Manager
+Audio Codec Error=audio codec reset|HALB error|I2S error
+Display Processor Error=DCP assertion failed|DisplayCoProcessor error
+USB Error=usb device error|IOUSBHost crash
+SIM Error=sim crash|sim lock|sim toolkit
+GPS Module Error=locationd crash|GPS module error
+Vibration Motor Error=taptic engine fail|haptic feedback error
+Unexpected Shutdown=shutdown cause|panic shutdown
+Jetsam Memory Pressure=jetsam event
+Watchdog Timeout=watchdog timeout|no successful checkins
