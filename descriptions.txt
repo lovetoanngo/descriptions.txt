@@ -1,7 +1,7 @@
 Thermal Monitor Shutdown=Máy quá nhiệt, hệ thống tự shutdown để bảo vệ.
 Battery GasGauge Error=Đo sai mức pin, pin báo ảo hoặc lỗi chip đo pin.
 Sensor Hub Crash=Lỗi bộ điều khiển cảm biến trung tâm (Sensor Hub).
-SMC Sensor Failure": "Lỗi hệ thống cảm biến SMC:\n- SMC PANIC - ASSERT: Báo lỗi từ firmware điều khiển cảm biến\n- SMC BSC failure: Lỗi BSC (Baseboard System Controller), điều phối dữ liệu cảm biến\n- sensor array trả về 0: Có thể cảm biến chết hoặc firmware lỗi\n- OUTBOX1 not ready: Firmware không nhận phản hồi từ cảm biến\n- RTKit không hoạt động: RTKit điều khiển phần cảm biến không hoạt động đúng \n -Kinh nghiệm thực tế : nước làm oxy hóa socket cáp nút nguồn, soket rung .... làm chạm đường  data cho các cảm biến 
+SMC Sensor Failure=Lỗi hệ thống cảm biến SMC:\n- SMC PANIC - ASSERT: Báo lỗi từ firmware điều khiển cảm biến\n- SMC BSC failure: Lỗi BSC (Baseboard System Controller), điều phối dữ liệu cảm biến\n- sensor array trả về 0: Có thể cảm biến chết hoặc firmware lỗi\n- OUTBOX1 not ready: Firmware không nhận phản hồi từ cảm biến\n- RTKit không hoạt động: RTKit điều khiển phần cảm biến không hoạt động đúng \n -Kinh nghiệm thực tế : nước làm oxy hóa socket cáp nút nguồn, soket rung .... làm chạm đường  data cho các cảm biến 
 Baseband Crash=Lỗi chip sóng di động hoặc firmware modem.
 SEP Panic=Lỗi chip bảo mật SEP (liên quan Face ID, Touch ID).
 BridgeOS Panic=Lỗi hệ thống điều khiển cảm biến và bảo mật phụ BridgeOS.
