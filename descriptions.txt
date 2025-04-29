@@ -34,3 +34,4 @@ I2C Bus Error=Lỗi giao tiếp I2C giữa CPU và các thiết bị như cảm 
 RTKit Panic=Lỗi liên quan đến RTKit – firmware điều khiển phần cứng thời gian thực như cảm biến. RTKit thường liên quan đến Touch ID, Face ID hoặc cảm biến xoay.
 BridgeOS Watchdog Reset=Lỗi BridgeOS không phản hồi đúng thời gian, bị watchdog khởi động lại. Liên quan cảm biến hoặc bảo mật phụ trợ.
 Thermal Throttling=Thiết bị bị giới hạn hiệu năng do quá nhiệt. Không phải panic trực tiếp nhưng có thể dẫn đến shutdown hoặc hư phần cứng nếu kéo dài.
+WiFi Watchdog Timeout=Tiến trình WiFi (com.apple.wifid) không phản hồi trong thời gian quy định, dẫn đến watchdog panic. Lỗi này thường liên quan đến WiFi, driver lỗi, hoặc xung đột hệ thống. Có thể gây mất kết nối hoặc treo máy liên tục.
