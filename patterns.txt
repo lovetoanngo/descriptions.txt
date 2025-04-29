@@ -34,3 +34,4 @@ I2C Bus Error=i2c error|IOP panic|i2c bus hang
 RTKit Panic=RTKit panic|RTBuddy|rtBuddy
 BridgeOS Watchdog Reset=BridgeOS watchdog|BridgeOS reset
 Thermal Throttling=thermal throttle|throttled due to high temperature
+WiFi Watchdog Timeout=userspace watchdog timeout.*com\.apple\.wifid
