@@ -1,5 +1,4 @@
-"Kernel Panic": r"panic\(cpu .*? caller .*?\)|Kernel trap|double panic|cpu halt|cpu fatal error|invalid kernel instruction",
-    "Thermal Monitor Shutdown": r"thermalmonitord|thermal pressure|thermal runaway|heat warning|shutdown|prochot asserted",
+"Thermal Monitor Shutdown": r"thermalmonitord|thermal pressure|thermal runaway|heat warning|shutdown|prochot asserted",
     "Battery GasGauge Error": r"GasGauge|battery capacity|battery current error",
     "Sensor Hub Crash": r"sensor hub crash|sensor controller crash|MotionCoproc|sensor panic",
     "SMC Sensor Failure": r"SMC PANIC|sensor array|OUTBOX1 not ready|SMC BSC failure",
@@ -26,4 +25,4 @@
     "Unexpected Shutdown": r"shutdown cause|panic shutdown",
     "Jetsam Memory Pressure": r"jetsam event",
     "Watchdog Timeout": r"watchdog timeout|no successful checkins"
-}
+    
