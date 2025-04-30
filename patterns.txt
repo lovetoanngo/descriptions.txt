@@ -36,3 +36,5 @@ BridgeOS Watchdog Reset=BridgeOS watchdog|BridgeOS reset
 Thermal Throttling=thermal throttle|throttled due to high temperature
 WiFi Watchdog Timeout=userspace watchdog timeout.*com\.apple\.wifid
 ANS2 PCIe Link Failure=ANS2 Recoverable Panic|failed to resume link|apcie0
+Data Abort AppleMTP=Exception class=0x25.*AppleMTPFirmwarePhone
+SPMI Controller SPMI Controller Error=AppleGen2SPMIController.*Could not reset queue
