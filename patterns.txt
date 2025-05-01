@@ -39,3 +39,9 @@ ANS2 PCIe Link Failure=ANS2 Recoverable Panic|failed to resume link|apcie0
 Data Abort AppleMTP=Exception class=0x25.*AppleMTPFirmwarePhone
 SPMI Controller SPMI Controller Error=AppleGen2SPMIController.*Could not reset queue
 SEP Monitor Error=SEP monitor error.*INACCESSIBLE BOOT REGISTERS
+SEP Boot Register Error=INACCESSIBLE BOOT REGISTERS.*SMC_PERF_STATE_CTL
+AppleMTP Panic=AppleMTPFirmwarePhone.*panic|AppleMTP.*firmware error
+AppleGen2SPMI QueueStatus Error=AppleGen2SPMIController.*queueStatus
+BridgeOS Panic Detect=BridgeOS.*DETECT_QUIET|BridgeOS.*watchdog
+USB MTP Transfer Error=AppleMTPFirmware.*transfer error|usb mtp error
+
